@@ -1,0 +1,2 @@
+# escuelaLuisGaldames
+pagina del colegio
